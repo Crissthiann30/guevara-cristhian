@@ -43,7 +43,7 @@ Características Principales
 🌐 Link a Demostración en Vivo
 
 GitHub Pages:
-https://arthurink.github.io/Poke-Finder/
+https://crissthiann30.github.io/guevara-cristhian/
 
 ⸻
 
