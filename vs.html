@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokéFinder - VS Battle</title>
+    <link rel="stylesheet" href="shared.css">
+</head>
+<body>
+    <div class="pokeball-bg">
+        <div class="pokeball-top"></div>
+        <div class="pokeball-bottom"></div>
+        <div class="pokeball-center-background"></div>
+        <div class="pokeball-center"></div>
+    </div>
+
+    <header class="main-header">
+        <h1 class="logo-title">⚔️ POKÉMON VS ⚔️</h1>
+    </header>
+
+    <nav class="tab-nav">
+        <a href="index.html" class="tab-btn">🔍 BUSCAR</a>
+        <a href="historico.html" class="tab-btn">📜 HISTÓRICO</a>
+        <a href="vs.html" class="tab-btn active">⚔️ VS</a>
+        <a href="favoritos.html" class="tab-btn">❤️ FAVORITOS</a>
+    </nav>
+
+    <div class="vs-container">
+        <div class="vs-search-row">
+            <div class="vs-search-group">
+                <input type="text" id="vsInput1" class="search-input-vs" placeholder="POKÉMON 1...">
+                <button class="btn-search-vs" data-target="1">BUSCAR</button>
+            </div>
+            <span class="vs-label">VS</span>
+            <div class="vs-search-group">
+                <input type="text" id="vsInput2" class="search-input-vs" placeholder="POKÉMON 2...">
+                <button class="btn-search-vs" data-target="2">BUSCAR</button>
+            </div>
+        </div>
+
+        <button id="battleBtn" class="btn-battle disabled" disabled>⚔️ ¡BATALLAR!</button>
+
+        <div id="vsCards" class="vs-cards-container"></div>
+        <div id="battleResults" class="hidden"></div>
+    </div>
+
+    <script src="shared.js"></script>
+</body>
+</html>
