@@ -29,7 +29,8 @@ El repositorio incluye:
   Parcial 1: que fue atraves de teams y era un forms
   Parcial 2: Era usar Html, Css, y Javascrip para unas banderas (tambien subido a Github como Parcial2Banderascorregido), creo, pero eice corregido ya que me equivoque en el primero, de igual manera esta en teams.
 
-<img width="828" height="1792" alt="IMG_5611" src="https://github.com/user-attachments/assets/1481c468-45cf-4951-b5cb-0123614384e7" />
+<img width="828" height="1792" alt="IMG_5614" src="https://github.com/user-attachments/assets/fe466360-54c7-4758-8290-e666fed5f4f1" />
+
 
 <img width="828" height="1792" alt="IMG_5613" src="https://github.com/user-attachments/assets/d7e2f953-2c94-43ad-b765-5fa4f41a5fa2" />
 
